@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-testing 3
-=======
-testing testing
->>>>>>> master
+testing
+conflict2
